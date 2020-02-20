@@ -8,7 +8,6 @@ using namespace std;
 template <typename T>
 Node<T>::Node()
 {
-  m_entry = 0;
   m_next = nullptr;
 }
 template <typename T>
